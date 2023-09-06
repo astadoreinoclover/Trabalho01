@@ -1,1 +1,3 @@
-Nomes: Renato Cardozo, 
+Nomes: 
+Renato Cardozo
+Vinícius Bortolotti Lemos
